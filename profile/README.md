@@ -17,23 +17,51 @@ O **Angel Client** é um cliente competitivo de Minecraft PvP desenvolvido pela 
 
 | Projeto | Descrição |
 |---------|-----------|
-| **Angel Client** | Cliente Minecraft PvP para múltiplas versões (1.8.9 até 1.21.4) |
-| **Angel Launcher** | Launcher desktop oficial do Angel Client |
+| **Angel Client** (1.8.9 ~ 1.21.4) | Client Minecraft PvP para múltiplas versões |
+| **Angel Launcher** | Launcher desktop oficial |
 | **Launcher Mobile** | Launcher para dispositivos Android |
 | **Installer** | Instalador oficial do Angel Client |
-| **Cosmetics** | Assets visuais e cosméticos do client |
+| **Cosmetics** | Assets visuais e cosméticos |
 
-## 🖤 Tecnologias
+## 🖤 Linguagens
 
-- **Java 8+** — Compatibilidade com versões legadas e modernas
-- **Mixin** — Transformação de bytecode em tempo de execução
-- **OptiFine** — Otimização gráfica integrada
-- **LWJGL** — Renderização multiplataforma
-- **Supabase** — Banco de dados e autenticação
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Ferramentas:** Gradle, Git, Mixin, OptiFine, LWJGL
+
+</div>
+
+## 🤍 Autores e Créditos
+
+| Nome | Função |
+|------|--------|
+| **xwtey** | Fundador e Desenvolvedor Principal |
+| **S4muelPlayer** | Desenvolvedor e Designer |
+| **decrei** | Desenvolvedor de Infraestrutura |
+| **Comunidade Angel Client** | Contribuições, testes e feedback |
+
+*A todos que contribuíram direta ou indiretamente para este projeto: muito obrigado! 🖤*
+
+## 🖤 Destaques Técnicos
+
+- **Bytecode Manipulation** com Mixin para modificações em tempo real
+- **Renderização Otimizada** com suporte a OpenGL 2.1+ / OpenGL ES 2.0
+- **Suporte Multi-versão** do Minecraft 1.8.9 até 1.21.4
+- **Interface Customizável** com HUD adaptável e edição ao vivo
+- **Sistema de Mods** modular com carregamento dinâmico
+- **Integração com Nametags** para exibição personalizada de nomes
 
 ## 🤍 Equipe
 
-> \"A perfeição não é alcançada quando não há mais o que adicionar, mas quando não há mais o que retirar.\" — *Antoine de Saint-Exupéry*
+> \"A perfeição não é alcançada quando não há mais o que adicionar, mas quando não há mais o que retirar.\"
+> — *Antoine de Saint-Exupéry*
 
 ---
 
