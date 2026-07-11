@@ -45,7 +45,7 @@ O **Angel Client** é um cliente competitivo de Minecraft PvP desenvolvido pela 
 | | |
 |---|---|
 | <img src="https://mc-heads.net/avatar/ncwx/64" width="48" height="48"> | **ncwx** — Website e Bot |
-| <img src="https://mc-heads.net/avatar/xztey/64" width="48" height="48"> | **xeey** — Client e Launcher |
+| <img src="https://mc-heads.net/avatar/lezadao/64" width="48" height="48"> | **brcelos** — All |
 | <img src="https://mc-heads.net/avatar/S4muelPlayer/64" width="48" height="48"> | **S4muelPlayer** — Melhorias e qualidades |
 | <img src="https://mc-heads.net/avatar/BGZINGAMER/64" width="48" height="48"> | **BGZINGAMER** — Designs e Modelos |
 | <img src="https://mc-heads.net/avatar/SpyderBW/64" width="48" height="48"> | **SpyderBW** — Criadores de conteúdo |
