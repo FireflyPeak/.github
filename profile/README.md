@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🖤 Angel Client 🤍
+# 💜 Fantasy Client 🤍
 
 **Minecraft PvP Client — Performance, Estilo e Inovação**
 
@@ -9,21 +9,21 @@
 
 ---
 
-## 🖤 Sobre Nós
+## 💜 Sobre Nós
 
-O **Angel Client** é um cliente competitivo de Minecraft PvP desenvolvido pela comunidade, com foco em **performance**, **personalização** e **estabilidade**. Nosso objetivo é oferecer a melhor experiência para jogadores que buscam vantagem competitiva sem abrir mão de estilo.
+O **Fantasy Client** é um cliente competitivo de Minecraft PvP desenvolvido pela comunidade, com foco em **performance**, **personalização** e **estabilidade**. Nosso objetivo é oferecer a melhor experiência para jogadores que buscam vantagem competitiva sem abrir mão de estilo.
 
 ## 🤍 Projetos
 
 | Projeto | Descrição |
 |---------|-----------|
-| **Angel Client** (1.8.9 ~ 1.21.4) | Client Minecraft PvP para múltiplas versões |
-| **Angel Launcher** | Launcher desktop oficial |
+| **Fantasy Client** (1.8.9 ~ 1.21.4) | Client Minecraft PvP para múltiplas versões |
+| **Fantasy Launcher** | Launcher desktop oficial |
 | **Launcher Mobile** | Launcher para dispositivos Android |
-| **Installer** | Instalador oficial do Angel Client |
+| **Installer** | Instalador oficial do Fantasy Client |
 | **Cosmetics** | Assets visuais e cosméticos |
 
-## 🖤 Linguagens
+## 💜 Linguagens
 
 <div align="center">
 
@@ -44,17 +44,13 @@ O **Angel Client** é um cliente competitivo de Minecraft PvP desenvolvido pela 
 
 | | |
 |---|---|
-| <img src="https://mc-heads.net/avatar/ncwx/64" width="48" height="48"> | **ncwx** — Website e Bot |
-| <img src="https://mc-heads.net/avatar/lezadao/64" width="48" height="48"> | **brcelos** — All |
-| <img src="https://mc-heads.net/avatar/S4muelPlayer/64" width="48" height="48"> | **S4muelPlayer** — Melhorias e qualidades |
-| <img src="https://mc-heads.net/avatar/BGZINGAMER/64" width="48" height="48"> | **BGZINGAMER** — Designs e Modelos |
-| <img src="https://mc-heads.net/avatar/SpyderBW/64" width="48" height="48"> | **SpyderBW** — Criadores de conteúdo |
-
+| <img src="https://mc-heads.net/avatar/lezadao/64" width="48" height="48"> | **brcelos** — Website e Bot |
+| <img src="https://mc-heads.net/avatar/S4muelPlayer/64" width="48" height="48"> | **S4muelPlayer** — Client e Launcher |
 </div>
 
 *A todos que contribuíram direta ou indiretamente para este projeto: muito obrigado! 🖤*
 
-## 🖤 Destaques Técnicos
+## 💜 Destaques Técnicos
 
 - **Bytecode Manipulation** com Mixin para modificações em tempo real
 - **Renderização Otimizada** com suporte a OpenGL 2.1+ / OpenGL ES 2.0
@@ -72,6 +68,6 @@ O **Angel Client** é um cliente competitivo de Minecraft PvP desenvolvido pela 
 
 <div align="center">
 
-🖤 © 2026 Angel Client. Todos os direitos reservados. 🤍
+💜 © 2026 Fantasy Client. Todos os direitos reservados. 🤍
 
 </div>
