@@ -5,6 +5,10 @@
 
 ## Sobre
 
+<div align="center">
+<img src="sobre.png" alt="Firefly Client — Sobre" width="800">
+</div>
+
 O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1.8.9 ~ 1.21.4**), desenvolvido pela comunidade com foco em **performance**, **personalização** e **estabilidade**. Nosso objetivo é oferecer a melhor experiência para jogadores que buscam vantagem competitiva sem abrir mão de estilo.
 
 ## Destaques
