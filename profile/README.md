@@ -16,13 +16,13 @@ O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1
 
 ## Projetos
 
-| Projeto | Descrição |
-|---------|-----------|
-| **Firefly Client** (1.8.9 ~ 1.21.4) | Client Minecraft PvP para múltiplas versões |
-| **Firefly Launcher** | Launcher desktop oficial |
-| **Launcher Mobile** | Launcher para dispositivos Android |
-| **Installer** | Instalador oficial do Firefly Client |
-| **Cosmetics** | Assets visuais e cosméticos |
+| Projeto | Descrição | Status |
+|---------|-----------|--------|
+| **Firefly Client** | Client de Minecraft PvP multi-versões (1.8.9 ~ 1.21.4) | Em desenvolvimento |
+| **Firefly Launcher** | Launcher desktop oficial do client | Em desenvolvimento |
+| **Launcher Mobile** | Launcher para dispositivos Android | Planejado |
+| **Installer** | Instalador oficial do Firefly Client | Em desenvolvimento |
+| **Cosmetics** | Assets visuais e cosméticos | Planejado |
 
 ## Linguagens
 
