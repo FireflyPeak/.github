@@ -1,29 +1,30 @@
-
 <div align="center">
+<img src="banner.png" alt="Firefly Client" width="450">
 
-# 💜 Fantasy Client 🤍
+<div>
 
-**Minecraft PvP Client — Performance, Estilo e Inovação**
+## Sobre
 
-</div>
+O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1.8.9 ~ 1.21.4**), desenvolvido pela comunidade com foco em **performance**, **personalização** e **estabilidade**. Nosso objetivo é oferecer a melhor experiência para jogadores que buscam vantagem competitiva sem abrir mão de estilo.
 
----
+## Destaques
 
-## 💜 Sobre Nós
+- **Alta performance** — Otimizações profundas para o melhor FPS
+- **Leve e estável** — Baixo consumo de recursos
+- **Multi-versão** — Suporte do Minecraft 1.8.9 até 1.21.4
+- **Atualizações constantes** — Melhorias e correções frequentes
 
-O **Fantasy Client** é um cliente competitivo de Minecraft PvP desenvolvido pela comunidade, com foco em **performance**, **personalização** e **estabilidade**. Nosso objetivo é oferecer a melhor experiência para jogadores que buscam vantagem competitiva sem abrir mão de estilo.
-
-## 🤍 Projetos
+## Projetos
 
 | Projeto | Descrição |
 |---------|-----------|
-| **Fantasy Client** (1.8.9 ~ 1.21.4) | Client Minecraft PvP para múltiplas versões |
-| **Fantasy Launcher** | Launcher desktop oficial |
+| **Firefly Client** (1.8.9 ~ 1.21.4) | Client Minecraft PvP para múltiplas versões |
+| **Firefly Launcher** | Launcher desktop oficial |
 | **Launcher Mobile** | Launcher para dispositivos Android |
-| **Installer** | Instalador oficial do Fantasy Client |
+| **Installer** | Instalador oficial do Firefly Client |
 | **Cosmetics** | Assets visuais e cosméticos |
 
-## 💜 Linguagens
+## Linguagens
 
 <div align="center">
 
@@ -38,7 +39,7 @@ O **Fantasy Client** é um cliente competitivo de Minecraft PvP desenvolvido pel
 
 </div>
 
-## 🤍 Autores e Créditos
+## Créditos
 
 <div align="center">
 
@@ -46,28 +47,23 @@ O **Fantasy Client** é um cliente competitivo de Minecraft PvP desenvolvido pel
 |---|---|
 | <img src="https://mc-heads.net/avatar/lezadao/64" width="48" height="48"> | **brcelos** — Website e Bot |
 | <img src="https://mc-heads.net/avatar/S4muelPlayer/64" width="48" height="48"> | **S4muelPlayer** — Client e Launcher |
+
 </div>
 
 *A todos que contribuíram direta ou indiretamente para este projeto: muito obrigado! 🖤*
 
-## 💜 Destaques Técnicos
+## Destaques Técnicos
 
 - **Bytecode Manipulation** com Mixin para modificações em tempo real
 - **Renderização Otimizada** com suporte a OpenGL 2.1+ / OpenGL ES 2.0
-- **Suporte Multi-versão** do Minecraft 1.8.9 até 1.21.4
 - **Interface Customizável** com HUD adaptável e edição ao vivo
 - **Sistema de Mods** modular com carregamento dinâmico
 - **Integração com Nametags** para exibição personalizada de nomes
-
-## 🤍 Equipe
-
-> \"A perfeição não é alcançada quando não há mais o que adicionar, mas quando não há mais o que retirar.\"
-> — *Antoine de Saint-Exupéry*
 
 ---
 
 <div align="center">
 
-💜 © 2026 Fantasy Client. Todos os direitos reservados. 🤍
+*Feito com 🖤 pelos desenvolvedores do Firefly Client*
 
 </div>
