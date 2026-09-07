@@ -45,8 +45,8 @@ O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1
 
 | | |
 |---|---|
-| <img src="https://mc-heads.net/avatar/lezadao/64" width="48" height="48"> | **brcelos** — Website e Bot |
-| <img src="https://mc-heads.net/avatar/S4muelPlayer/64" width="48" height="48"> | **S4muelPlayer** — Client e Launcher |
+| <img src="https://mc-heads.net/avatar/Pentaax/64" width="48" height="48"> | **Pentaax** — Criador e Fundador |
+| <img src="https://mc-heads.net/avatar/xymii/64" width="48" height="48"> | **xymii** — Desenvolvedor |
 
 </div>
 
