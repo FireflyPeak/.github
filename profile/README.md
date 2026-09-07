@@ -3,7 +3,7 @@
 
 <div>
 
-## Sobre
+## [](sobre.png)
 
 <div align="center">
 <img src="sobre.png" alt="Firefly Client — Sobre" width="800">
@@ -11,14 +11,22 @@
 
 O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1.8.9 ~ 1.21.4**), desenvolvido pela comunidade com foco em **performance**, **personalização** e **estabilidade**. Nosso objetivo é oferecer a melhor experiência para jogadores que buscam vantagem competitiva sem abrir mão de estilo.
 
-## Destaques
+## [](destaques.png)
+
+<div align="center">
+<img src="destaques.png" alt="Firefly Client — Destaques" width="800">
+</div>
 
 - **Alta performance** — Otimizações profundas para o melhor FPS
 - **Leve e estável** — Baixo consumo de recursos
 - **Multi-versão** — Suporte do Minecraft 1.8.9 até 1.21.4
 - **Atualizações constantes** — Melhorias e correções frequentes
 
-## Projetos
+## [](projetos.png)
+
+<div align="center">
+<img src="projetos.png" alt="Firefly Client — Projetos" width="800">
+</div>
 
 | Projeto | Descrição | Status |
 |---------|-----------|--------|
@@ -28,7 +36,11 @@ O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1
 | **Installer** | Instalador oficial do Firefly Client | Em desenvolvimento |
 | **Cosmetics** | Assets visuais e cosméticos | Planejado |
 
-## Linguagens
+## [](linguagens.png)
+
+<div align="center">
+<img src="linguagens.png" alt="Firefly Client — Linguagens" width="800">
+</div>
 
 <div align="center">
 
@@ -43,7 +55,11 @@ O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1
 
 </div>
 
-## Créditos
+## [](creditos.png)
+
+<div align="center">
+<img src="creditos.png" alt="Firefly Client — Créditos" width="800">
+</div>
 
 <div align="center">
 
@@ -56,7 +72,11 @@ O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1
 
 *A todos que contribuíram direta ou indiretamente para este projeto: muito obrigado! 🖤*
 
-## Destaques Técnicos
+## [](destaquestecnicos.png)
+
+<div align="center">
+<img src="destaquestecnicos.png" alt="Firefly Client — Destaques Técnicos" width="800">
+</div>
 
 - **Bytecode Manipulation** com Mixin para modificações em tempo real
 - **Renderização Otimizada** com suporte a OpenGL 2.1+ / OpenGL ES 2.0
