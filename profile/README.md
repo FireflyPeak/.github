@@ -3,18 +3,18 @@
 
 <div>
 
-## [](sobre.png)
+## [](sobre.gif)
 
 <div align="center">
-<img src="sobre.png" alt="Firefly Client — Sobre" width="800">
+<img src="sobre.gif" alt="Firefly Client — Sobre" width="800">
 </div>
 
 O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1.8.9 ~ 1.21.4**), desenvolvido pela comunidade com foco em **performance**, **personalização** e **estabilidade**. Nosso objetivo é oferecer a melhor experiência para jogadores que buscam vantagem competitiva sem abrir mão de estilo.
 
-## [](destaques.png)
+## [](destaques.gif)
 
 <div align="center">
-<img src="destaques.png" alt="Firefly Client — Destaques" width="800">
+<img src="destaques.gif" alt="Firefly Client — Destaques" width="800">
 </div>
 
 - **Alta performance** — Otimizações profundas para o melhor FPS
@@ -22,10 +22,10 @@ O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1
 - **Multi-versão** — Suporte do Minecraft 1.8.9 até 1.21.4
 - **Atualizações constantes** — Melhorias e correções frequentes
 
-## [](projetos.png)
+## [](projetos.gif)
 
 <div align="center">
-<img src="projetos.png" alt="Firefly Client — Projetos" width="800">
+<img src="projetos.gif" alt="Firefly Client — Projetos" width="800">
 </div>
 
 | Projeto | Descrição | Status |
@@ -36,10 +36,10 @@ O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1
 | **Installer** | Instalador oficial do Firefly Client | Em desenvolvimento |
 | **Cosmetics** | Assets visuais e cosméticos | Planejado |
 
-## [](linguagens.png)
+## [](linguagens.gif)
 
 <div align="center">
-<img src="linguagens.png" alt="Firefly Client — Linguagens" width="800">
+<img src="linguagens.gif" alt="Firefly Client — Linguagens" width="800">
 </div>
 
 <div align="center">
@@ -55,10 +55,10 @@ O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1
 
 </div>
 
-## [](creditos.png)
+## [](creditos.gif)
 
 <div align="center">
-<img src="creditos.png" alt="Firefly Client — Créditos" width="800">
+<img src="creditos.gif" alt="Firefly Client — Créditos" width="800">
 </div>
 
 <div align="center">
@@ -72,10 +72,10 @@ O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1
 
 *A todos que contribuíram direta ou indiretamente para este projeto: muito obrigado! 🖤*
 
-## [](destaquestecnicos.png)
+## [](destaquestecnicos.gif)
 
 <div align="center">
-<img src="destaquestecnicos.png" alt="Firefly Client — Destaques Técnicos" width="800">
+<img src="destaquestecnicos.gif" alt="Firefly Client — Destaques Técnicos" width="800">
 </div>
 
 - **Bytecode Manipulation** com Mixin para modificações em tempo real
